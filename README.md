@@ -151,7 +151,7 @@ A summary of the accuracies of all the models used is presented in the table bel
 | Support Vector Machine | 0.84      |
 | Deep Neural Network    | 0.91      |
 
-![Model Overview]([img_dnn_heart_disease_prjct.png](https://github.com/KhadijaBenhamida/Heart-Disease-Classification-with-Deep-Neural-Networks-DNN-/blob/main/img_dnn_heart_disease_prjct.png))
+![Model Overview](https://github.com/KhadijaBenhamida/Heart-Disease-Classification-with-Deep-Neural-Networks-DNN-/blob/main/img_dnn_heart_disease_prjct.png)
 
 ## Conclusion
 
