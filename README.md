@@ -151,6 +151,8 @@ A summary of the accuracies of all the models used is presented in the table bel
 | Support Vector Machine | 0.84      |
 | Deep Neural Network    | 0.91      |
 
+![Model Overview](img_dnn_heart_disease_prjct.png)
+
 ## Conclusion
 
 The Deep Neural Network (DNN) achieved the best performance with an accuracy of **91%**, outperforming traditional machine learning models such as Decision Tree, Random Forest, and Logistic Regression.
