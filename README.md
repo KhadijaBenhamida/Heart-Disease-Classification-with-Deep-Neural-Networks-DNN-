@@ -161,9 +161,6 @@ The Deep Neural Network (DNN) achieved the best performance with an accuracy of 
 
 Feel free to fork the repository, create branches, and submit pull requests for new features or bug fixes. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
